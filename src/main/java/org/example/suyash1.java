@@ -10,5 +10,7 @@ public class suyash1 {
 
 
         System.out.println("Suyash");
+
+
     }
 }
